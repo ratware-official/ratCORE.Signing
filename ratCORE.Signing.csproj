@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Company>ratware</Company>
+    <Authors>Tom V. (ratware)</Authors>
+    <Product>ratCORE.Signing</Product>
+    <Description>Provides signing and verification of files using ECDSA P-256, secure key encryption, and trusted key validation.</Description>
+    <Copyright>Copyright © 2025 ratware</Copyright>
+    <PackageLicenseExpression>CC-BY-4.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ratware-official/ratCORE</RepositoryUrl>
+    <Version>1.0.9421.1309</Version>
+    <FileVersion>1.0.9421.1309</FileVersion>
+  </PropertyGroup>
+
+</Project>
